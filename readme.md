@@ -57,7 +57,6 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Eto na ang ating huling sandali
 
 Guiding Question:
 - What is the project - The project involves creating a multi-page website with a unique and engaging design theme
