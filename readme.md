@@ -60,17 +60,16 @@
 Eto na ang ating huling sandali
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - The project involves creating a multi-page website with a unique and engaging design theme
+- Whats the purpose - The purpose of the project is to demonstrate the ability to design and develop a visually appealing and functional website using fundamental web technologies and to showcase unique feature layouts.
+- What are key components - Design, Deployment, Content
+- What technology used and how it is used - The project uses Pure HTML, CSS, and JavaScript for the structure, styling, and interactivity of the web pages Additionally, libraries such as Font Awesome, Google Fonts.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Page Design
+- Feature Page Layouts
 
 ### Technology
 <!-- TODO: List of Technology Used -->
