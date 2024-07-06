@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Itsmejowy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Juventus-logo-500x281.png" alt="jowy" width="130" height="100">
   </a>
